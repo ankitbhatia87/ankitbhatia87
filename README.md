@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitbhatia87
+- 👋 Hi, I’m Ankit Bhatia
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React and Typescript with NextJs
 - 💞️ I’m looking to collaborate on any project which is currently or in future going to be developed in react js
